@@ -1,0 +1,39 @@
+#Navbar{
+    background-color:floralwhite ;
+    display: flex;
+    padding: 2px 2px 2px 2px;
+}
+
+#Nav-Title-1{
+    text-align: center;
+    font-style: italic;
+    font-weight: 800;
+    font-size: x-large;
+}
+#Nav-Title-2{
+    margin-top: -18px;
+    margin-left: 16px;
+    font-style: italic;
+    font-weight: 600;
+}
+
+
+
+#Navbar-list{
+    display: flex;
+    margin-left: auto;
+    
+    
+}
+
+
+#All-Lists{
+display:flex;
+list-style: none;
+flex: auto;
+}
+
+.list{
+    margin-right: 12px;
+}
+
